@@ -11,6 +11,18 @@ div#ToDoWrapper {
 
 div#ToDoDescription {
   display: flex;
+  justify-content: space-between;
+
+}
+
+div#ToDoDescription > button {
+  background: none;
+  margin-top: -10px;  
+  margin-right: -10px;  
+}
+
+div#ContentToDo {
+  display: flex;
   flex: 1;
   flex-direction: row;
   align-items: center;

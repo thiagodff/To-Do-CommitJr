@@ -98,7 +98,7 @@ export default function Dashboard () {
         </button>
       </form>
 
-      <List items={items} />
+      <List items={items} handleRemove={(toDoList) => setToDoList(toDoList)} />
     </div>
   );
 }
