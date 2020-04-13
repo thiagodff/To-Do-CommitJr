@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/To-Do-CommitJr/static/css/main.db246747.chunk.css",
+    "main.js": "/To-Do-CommitJr/static/js/main.265b1cd4.chunk.js",
+    "main.js.map": "/To-Do-CommitJr/static/js/main.265b1cd4.chunk.js.map",
+    "runtime-main.js": "/To-Do-CommitJr/static/js/runtime-main.a3e7961e.js",
+    "runtime-main.js.map": "/To-Do-CommitJr/static/js/runtime-main.a3e7961e.js.map",
+    "static/js/2.746f8aa6.chunk.js": "/To-Do-CommitJr/static/js/2.746f8aa6.chunk.js",
+    "static/js/2.746f8aa6.chunk.js.map": "/To-Do-CommitJr/static/js/2.746f8aa6.chunk.js.map",
+    "index.html": "/To-Do-CommitJr/index.html",
+    "precache-manifest.60f5af8190dddd013fd8c6c9ba7eb1e2.js": "/To-Do-CommitJr/precache-manifest.60f5af8190dddd013fd8c6c9ba7eb1e2.js",
+    "service-worker.js": "/To-Do-CommitJr/service-worker.js",
+    "static/css/main.db246747.chunk.css.map": "/To-Do-CommitJr/static/css/main.db246747.chunk.css.map",
+    "static/js/2.746f8aa6.chunk.js.LICENSE.txt": "/To-Do-CommitJr/static/js/2.746f8aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e7961e.js",
+    "static/js/2.746f8aa6.chunk.js",
+    "static/css/main.db246747.chunk.css",
+    "static/js/main.265b1cd4.chunk.js"
+  ]
+}
