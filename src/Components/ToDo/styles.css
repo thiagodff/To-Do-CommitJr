@@ -1,0 +1,40 @@
+div#ToDoWrapper {
+  background: #395FA6;
+  color: white;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+div#ToDoDescription {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+}
+
+div#TagDescription {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+p {
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+p#NoChecked {
+  text-decoration: line-through;
+}
+
+span {
+  background: #234992;
+  padding: 5px;
+  border-radius: 4px;
+  margin-right: 5px;
+  margin-top: 10px;
+}
